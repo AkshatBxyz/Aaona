@@ -22,3 +22,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+$( "#booker" ).click(function() {
+    alert( "Pay 30 Rs on 9522388420 \nBhulna Mat\nme aap ka raato ka sathi" );
+  });
